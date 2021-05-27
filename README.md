@@ -25,8 +25,8 @@ The Ignite's ReactJS || Next.js Leaning Pathway is taught by <a href="https://ww
         <li>☑️Application flow in React && Next.js</li>
         <li>☑️Next.js basics</li>
         <li>☑️Adding TypeScript</li>
-        <li>Styling with SaSS</li>
-        <li></li>
+        <li>☑️Styling with SaSS</li>
+        <li>☑️Configuring an external font-family and _document page</li>
     </ol>
 </details>
 
