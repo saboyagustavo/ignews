@@ -26,7 +26,8 @@ The Ignite's ReactJS || Next.js Leaning Pathway is taught by <a href="https://ww
         <li>☑️Next.js basics</li>
         <li>☑️Adding TypeScript</li>
         <li>☑️Styling with SaSS</li>
-        <li>☑️Configuring an external font-family and _document page</li>
+        <li>☑️The `_document` page: configuring an external font-family</li>
+        <li>☑️Setting dynamic page titles</li>
     </ol>
 </details>
 
