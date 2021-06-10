@@ -31,3 +31,11 @@ The Ignite's ReactJS || Next.js Leaning Pathway is taught by <a href="https://ww
     </ol>
 </details>
 
+<details>
+     <summary>
+        <strong>Components && Pages</strong>
+     </summary>
+    <ol style="list-style:none">
+        <li>☑️Component: Header</li>
+    </ol>
+</details>
