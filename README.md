@@ -42,3 +42,15 @@ The Ignite's ReactJS || Next.js Leaning Pathway is taught by <a href="https://ww
         <li>☑️Component: SubscribeButton</li>
     </ol>
 </details>
+
+<details>
+     <summary>
+        <strong>Integration with API</strong>
+     </summary>
+    <ol style="list-style:none">
+        <li>Configuring Stripe</li>
+        <li>Consuming Stripe's API (SSR)</li>
+        <li>Static Site Generation (SSG)</li>
+        <li></li>
+    </ol>
+</details>
