@@ -38,5 +38,7 @@ The Ignite's ReactJS || Next.js Leaning Pathway is taught by <a href="https://ww
     <ol style="list-style:none">
         <li>☑️Component: Header</li>
         <li>☑️Component: Sign in Button</li>
+        <li>☑️Structured and styled the homepage</li>
+        <li>☑️Component: SubscribeButton</li>
     </ol>
 </details>
