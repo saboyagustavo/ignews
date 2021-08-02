@@ -53,3 +53,14 @@ The Ignite's ReactJS || Next.js Leaning Pathway is taught by <a href="https://ww
         <li>☑️Static Site Generation (SSG)</li>
     </ol>
 </details>
+
+## Chapter IV - Server-side Next.js
+
+<details>
+     <summary>
+        <strong>API Routes in Next.js</strong>
+     </summary>
+    <ol style="list-style:none">
+        <li>☑️ Implementing API Routes</li>
+    </ol>
+</details
