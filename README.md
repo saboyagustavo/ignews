@@ -62,5 +62,7 @@ The Ignite's ReactJS || Next.js Leaning Pathway is taught by <a href="https://ww
      </summary>
     <ol style="list-style:none">
         <li>☑️ Implementing API Routes</li>
+        <li>☑️ Approaches in Authentication using Next.js</li>
+        <li>☑️ Parametrization in Routes</li>
     </ol>
 </details
